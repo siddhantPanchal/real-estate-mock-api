@@ -1,4 +1,3 @@
-
 # Real Estate Mock API (Using JSON Server)
 
 This repository contains a mock API for real estate listings created using JSON Server. You can use this mock API to simulate real estate listing data for development purposes.
@@ -17,10 +16,10 @@ git clone https://github.com/anshumansinha1/real-estate-mock-api.git
 cd real-estate-mock-api
 ```
 
-
 ## Running the Mock Server
 
 ### Install JSON Server:
+
 Open your terminal or command prompt and install JSON Server globally by running the following command:
 
 ```
@@ -39,9 +38,8 @@ This will start your JSON Server at 5000 port.
 
 ### GET the Data
 
-In order to access the json data, use the following enpoint in your browser or postman: 
+In order to access the json data, use the following enpoint in your browser or postman:
 
 ```
 localhost:5000/real-estate-data
 ```
-
